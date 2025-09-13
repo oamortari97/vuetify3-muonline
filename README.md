@@ -24,7 +24,7 @@ Este projeto me permitiu praticar e solidificar minhas habilidades em:
 
 Quer testar? É bem simples:
 
-1. Clone o repositório: `git clone https://github.com/oamortari97/vuetify3-muonline.git`
+1. Clone o repositório: `git clone https://github.com/<usuario>/vuetify3-muonline.git`
 2. Entre na pasta: `cd vuetify3-muonline`
 3. Instale as dependências: `npm install`
 4. Inicie o servidor de desenvolvimento: `npm run dev`
